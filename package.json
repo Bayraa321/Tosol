@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Bayraa321/Tosol/issues"
   },
-  "homepage": "https://github.com/Bayraa321/Tosol#readme"
+  "homepage": "https://github.com/Bayraa321/Tosol#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.3.1",
+    "pg": "^8.7.3"
+  }
 }
